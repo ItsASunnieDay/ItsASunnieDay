@@ -6,7 +6,10 @@
 </p>
 
 
-✦ HƳPƐR𝗙𐤦XⱭ𝖳ΕD 𐌏N ꝒHM ( ≧∀≦)ノ✦
+<p align="center">
+  <img src="https://demolab.com✦+HƳPƐRF𐤦XA𝖳ΕD+ON+PHM+(+≧∀≦)ノ✦" alt="Typing Animation" />
+</p>
+
 
 
 
