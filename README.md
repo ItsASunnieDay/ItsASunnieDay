@@ -6,10 +6,8 @@
 </p>
 
 
-<p align="center">
-  <img src="https://demolab.com✦+HƳPƐRF𐤦XA𝖳ΕD+ON+PHM+(+≧∀≦)ノ✦" alt="Typing Animation" />
-</p>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=E3EFF7&width=435&lines=%E2%80%94+hypervixated+on+PHM+%28+%E2%89%A7%E2%88%80%E2%89%A6%29%E3%83%8E" alt="Typing SVG" /></a>
 
 
 
@@ -18,7 +16,5 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31dpaf5n3koff4hejgenvritm75m&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=63d8ff&bar_color_cover=false&mode=dark">
   </a>
 </p>
-
-
 
 
